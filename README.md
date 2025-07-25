@@ -2,6 +2,7 @@
 
 <h3 align="center" style="color:#FF69B4;">
 I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
+
 ---
 ## About Me
 - 🌱 I'm currently a sophomore studying CS and Math at Bryn Mawr College 
