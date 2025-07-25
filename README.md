@@ -42,6 +42,7 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical)
 ---
 
 ## Let's Connect
