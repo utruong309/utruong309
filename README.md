@@ -1,13 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+🪴%2C+I'm+Uyen;Aspiring+Software+Engineer;I+love+building+AI-powered+web+apps;Always+learning+and+shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+🌷%2C+I'm+Uyen;Aspiring+Software+Engineer;I+love+building+AI-powered+web+apps;Always+learning+and+shipping+🚀)](https://git.io/typing-svg)
 
 <h3 align="center" style="color:#FF69B4;">
 I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
+</h3>
 
 ---
+
 ## About Me 
 - 🌱 I'm currently a sophomore studying CS and Math at Bryn Mawr College 
 - 💬 Ask me about **Java, Python, ML, Web Dev**
+- I love coffee hopping☕, photography📸, and experimenting with new cooking recipes🍳
+
 ---
+
 ## Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,12 +41,12 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical)
+---
+
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyen-truong-b4b0b32a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uyenthutruong09@gmail.com)
+
 ---
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=100&section=footer)
