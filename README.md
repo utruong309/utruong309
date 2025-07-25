@@ -54,8 +54,3 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical&hide_border=false) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utruong309&show_icons=true&theme=radical&hide_border=false)  
-
-
-## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyen-truong-b4b0b32a7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uyenthutruong09@gmail.com)
