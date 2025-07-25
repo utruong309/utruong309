@@ -1,15 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+🌷%2C+I'm+Uyen;Aspiring+Software+Engineer;I+love+building+AI-powered+web+apps;Always+learning+and+shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+🪴%2C+I'm+Uyen;Aspiring+Software+Engineer;I+love+building+AI-powered+web+apps;Always+learning+and+shipping+🚀)](https://git.io/typing-svg)
 
 <h3 align="center" style="color:#FF69B4;">
 I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 
 ---
-## About Me
+## About Me 
 - 🌱 I'm currently a sophomore studying CS and Math at Bryn Mawr College 
 - 💬 Ask me about **Java, Python, ML, Web Dev**
 ---
-## 💻 Skills
-
+## Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
