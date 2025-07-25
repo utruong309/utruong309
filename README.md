@@ -48,8 +48,12 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical)
 ---
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utruong309&show_icons=true&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical&hide_border=false)
+
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyen-truong-b4b0b32a7/)
