@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+🌷%2C+I'm+Uyen;Aspiring+Software+Engineer;I+love+building+AI-powered+web+apps;Always+learning+and+shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+🌷%2C+I'm+Uyen;Aspiring+Software+Engineer;I+love+building+AI-powered+web+apps;Always+learning+and+shipping+🚀)](https://git.io/typing-svg)
 
 <h3 align="center" style="color:#FF69B4;">
 I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
