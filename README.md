@@ -47,6 +47,3 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uyen-truong-b4b0b32a7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uyenthutruong09@gmail.com)
-
----
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=100&section=footer)
