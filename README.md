@@ -51,9 +51,9 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ---
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utruong309&show_icons=true&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical&hide_border=false) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utruong309&show_icons=true&theme=radical&hide_border=false)  
 
 
 ## Let's Connect
