@@ -7,7 +7,7 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ---
 
 ## About Me 
-- 🌱 I'm currently a sophomore studying CS and Math at Bryn Mawr College 
+- 🌱 I'm currently studying CS and Math at Bryn Mawr College 
 - 💬 Ask me about **Java, Python, ML, Web Dev**
 - I love coffee hopping☕, photography📸, and experimenting with new cooking recipes🍳
 
