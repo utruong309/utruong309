@@ -46,11 +46,4 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=radical&hide_border=false) 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utruong309&show_icons=true&theme=radical&hide_border=false)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white) 
