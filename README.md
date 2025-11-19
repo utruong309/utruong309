@@ -13,7 +13,7 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 
 --- 
 
-<h2> Skills </h2>
+## Skills
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
