@@ -10,6 +10,7 @@ I'm Uyen, an aspiring <b>Software Engineer</b> 🌷 <br>
 - 🌱 I'm currently studying CS and Math at Bryn Mawr College 
 - 💬 Ask me about **Java, Python, ML, Web Dev**
 - I love cafe hopping☕, photography📸, and experimenting with new cooking recipes🍳
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/efba94c9-120a-409b-88a1-0c260f0917a6" />
 
 --- 
 
