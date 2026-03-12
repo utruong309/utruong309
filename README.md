@@ -5,7 +5,7 @@
 ## About Me 
 - 🌱 I'm currently studying CS and Math at Bryn Mawr College 
 - 💬 Ask me about **Java, Python, ML, Web Dev**
-- I love cafe hopping☕, photography📸, and experimenting with new cooking recipes🍳
+- I love matcha 🍵, film photography 📸, and experimenting with new cooking recipes 🍳
 --- 
 
 ## Skills
