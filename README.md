@@ -42,4 +42,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlinh31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utruong309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
