@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+there+👋%2C+I'm+Uyen+(❛‿❛);Aspiring+Software+Engineer+🌷;)](https://git.io/typing-svg)
 
----
-
 ## About Me 
+
 - 🌱 I'm currently studying CS and Math at Bryn Mawr College 
 - 💬 Ask me about **Java, Python, ML, Web Dev**
 - I love matcha 🍵, film photography 📸, and experimenting with new cooking recipes 🍳
---- 
 
 ## Skills
 
@@ -42,5 +40,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlinh31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
