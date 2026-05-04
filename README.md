@@ -5,7 +5,7 @@
 - I'm currently studying CS & Math at Bryn Mawr College. This summer, I'll be joining Frizzle (YC S25) as a SWE Intern, working on an AI grading system for Math teachers ✏️ 
 - I'm proficient in full-stack development, especially backend infrastructure and API design. Lately, I'm learning distributed systems and AGI, mostly because I want to build better productivity tools that can automate manual, repetitive work 💤
 - I contribute to open source as well and find it one of the best ways to get better at coding 🔍
-- Outside of coding, you'll find me posting my food takes on Beli 😋🥢, rewatching HIMYM/Stranger Things for the nth time 🍿, taking film photos 🎞️, or trying out a new cooking recipe 🧂
+- Outside of work, you'll find me posting my food takes on Beli 😋🥢, rewatching HIMYM/Stranger Things for the nth time 🍿, taking film photos 🎞️, or trying out a new cooking recipe 🧂
 
 
 
